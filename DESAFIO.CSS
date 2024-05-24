@@ -1,0 +1,33 @@
+body {
+    border: 5px solid black;
+    background-image: url('./img/8bbadba91a3b950b285204165da4eec5.jpg'); 
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200mm;
+    height: 297mm;
+    font-size: 20px;
+    
+}
+
+h1 {
+   text-align: center;
+    font-style: normal;
+    margin-bottom: 70px;
+}
+
+p {
+    font-style: normal;
+
+}
+h3{
+    margin-bottom: 40px;
+}
+
+li{
+    text-align: justify;
+    margin-right: 10px;
+}
+
+main{
+    margin-left:30px ;
+}
